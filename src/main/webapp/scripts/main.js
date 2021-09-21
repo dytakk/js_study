@@ -59,5 +59,12 @@ function pageMove2(something){
 	
 }
 
+function pageMove3(){
+
+	FormData.action="move.html";
+	FormData.method="get";
+	FormData.submit();
+
+}
 
 
